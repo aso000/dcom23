@@ -1,2 +1,3 @@
-# dcom23
-Beginner ML challenge for dcom
+# How Machine Models Learn
+
+## 🎯 Learning Objectives
