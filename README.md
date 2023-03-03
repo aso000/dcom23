@@ -34,7 +34,7 @@ After completing, save and download your notebook. The environment will not pers
 
 
 ## 🙌 Congratulations! Submit your solution.
-
+Submit your predictions using your improved model to your instructor. She/He will tell you how you rank.
 
 
 ## 🏁 Summary
