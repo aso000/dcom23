@@ -24,7 +24,7 @@ Basic understanding of AI, for instance you attended “What problems does AI so
 
 #### 🚇 Infrastructure
 
-You can run this on binder: 
+You can run this on binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aso000/dcom23.git/HEAD)
 
 ### 🚀 Getting Started
 
