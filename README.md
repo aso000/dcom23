@@ -10,8 +10,8 @@ In this exercise you will understand what is supervised machine learning and how
 ## 🧠 Theory
 
 Machine learning can be an appropriate response to diverse classes of problems where writing rules can be tedious, error-prone, and ineffective. The following slides bring some fundamentals about that:   
-•	What Problems does AI solve(also read the speaker notes) 
-•	See also how to use Jupyter notebooks here: https://app.pluralsight.com/guides/jupyter-notebook-getting-started
+-	What Problems does AI solve(also read the speaker notes) 
+-	See also how to use Jupyter notebooks here: https://app.pluralsight.com/guides/jupyter-notebook-getting-started
 
 
 ## 💻 Exercise
