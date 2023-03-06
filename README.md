@@ -3,9 +3,9 @@
 ## 🎯 Learning Objectives
 
 In this exercise you will understand what is supervised machine learning and how machine learning models are trained using a Jupyter Notebook:
-•	Prepare a dataset for training (Training, validation, and test data)
-•	Visualize the optimization process for backpropagation, observing the loss on training and validation data 
-•	Perform inference on unseen (test) data
+-	Prepare a dataset for training (Training, validation, and test data)
+-	Visualize the optimization process for backpropagation, observing the loss on training and validation data 
+-	Perform inference on unseen (test) data
 
 ## 🧠 Theory
 
