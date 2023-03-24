@@ -24,7 +24,8 @@ Basic understanding of AI, for instance you attended “What problems does AI so
 
 #### 🚇 Infrastructure
 
-All You need to do is to run the Jupyter notebook on binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aso000/dcom23.git/HEAD?labpath=DCom2023Challenge.ipynb)
+All You need to do is to run the Jupyter notebook on binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aso000/dcom23.git/HEAD?labpath=DCom2023Challenge.ipynb)
 
 ### 🚀 Getting Started
 
